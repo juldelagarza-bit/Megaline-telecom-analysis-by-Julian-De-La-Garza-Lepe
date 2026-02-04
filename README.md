@@ -89,7 +89,7 @@ Regional Analysis: No significant difference between NY-NJ and other regions
 Confidence Level: 95%
 
 ## 5. Structure
-
+```
 megaline-analysis/
 │
 ├── README.md                          # Documentación principal del proyecto
@@ -119,6 +119,6 @@ megaline-analysis/
 │
 ├── requirements.txt                  # Dependencias del proyecto
 └── .gitignore 
-
+```
 ## Autor
 Julian De La Garza Lepe
